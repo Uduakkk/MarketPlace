@@ -1,0 +1,454 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Udumanah\\Desktop\\MarketPlace\\MarketPlace\\MarketPlace\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1C9489-0510-42B3-A179-5B7BCC8CC829}|MarketPlace.Data\\MarketPlace.Data.csproj|c:\\users\\udumanah\\desktop\\marketplace\\marketplace\\marketplace\\marketplace.data\\entities\\wishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1C9489-0510-42B3-A179-5B7BCC8CC829}|MarketPlace.Data\\MarketPlace.Data.csproj|solutionrelative:marketplace.data\\entities\\wishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05BA7515-8E70-4260-A09D-F12A52C27507}|MarketPlace.Core\\MarketPlace.Core.csproj|c:\\users\\udumanah\\desktop\\marketplace\\marketplace\\marketplace\\marketplace.core\\dtos\\wishlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05BA7515-8E70-4260-A09D-F12A52C27507}|MarketPlace.Core\\MarketPlace.Core.csproj|solutionrelative:marketplace.core\\dtos\\wishlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1C9489-0510-42B3-A179-5B7BCC8CC829}|MarketPlace.Data\\MarketPlace.Data.csproj|c:\\users\\udumanah\\desktop\\marketplace\\marketplace\\marketplace\\marketplace.data\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1C9489-0510-42B3-A179-5B7BCC8CC829}|MarketPlace.Data\\MarketPlace.Data.csproj|solutionrelative:marketplace.data\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05BA7515-8E70-4260-A09D-F12A52C27507}|MarketPlace.Core\\MarketPlace.Core.csproj|c:\\users\\udumanah\\desktop\\marketplace\\marketplace\\marketplace\\marketplace.core\\dtos\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05BA7515-8E70-4260-A09D-F12A52C27507}|MarketPlace.Core\\MarketPlace.Core.csproj|solutionrelative:marketplace.core\\dtos\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1C9489-0510-42B3-A179-5B7BCC8CC829}|MarketPlace.Data\\MarketPlace.Data.csproj|c:\\users\\udumanah\\desktop\\marketplace\\marketplace\\marketplace\\marketplace.data\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1C9489-0510-42B3-A179-5B7BCC8CC829}|MarketPlace.Data\\MarketPlace.Data.csproj|solutionrelative:marketplace.data\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05BA7515-8E70-4260-A09D-F12A52C27507}|MarketPlace.Core\\MarketPlace.Core.csproj|c:\\users\\udumanah\\desktop\\marketplace\\marketplace\\marketplace\\marketplace.core\\dtos\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05BA7515-8E70-4260-A09D-F12A52C27507}|MarketPlace.Core\\MarketPlace.Core.csproj|solutionrelative:marketplace.core\\dtos\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05BA7515-8E70-4260-A09D-F12A52C27507}|MarketPlace.Core\\MarketPlace.Core.csproj|c:\\users\\udumanah\\desktop\\marketplace\\marketplace\\marketplace\\marketplace.core\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05BA7515-8E70-4260-A09D-F12A52C27507}|MarketPlace.Core\\MarketPlace.Core.csproj|solutionrelative:marketplace.core\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1C9489-0510-42B3-A179-5B7BCC8CC829}|MarketPlace.Data\\MarketPlace.Data.csproj|c:\\users\\udumanah\\desktop\\marketplace\\marketplace\\marketplace\\marketplace.data\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1C9489-0510-42B3-A179-5B7BCC8CC829}|MarketPlace.Data\\MarketPlace.Data.csproj|solutionrelative:marketplace.data\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05BA7515-8E70-4260-A09D-F12A52C27507}|MarketPlace.Core\\MarketPlace.Core.csproj|c:\\users\\udumanah\\desktop\\marketplace\\marketplace\\marketplace\\marketplace.core\\dtos\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05BA7515-8E70-4260-A09D-F12A52C27507}|MarketPlace.Core\\MarketPlace.Core.csproj|solutionrelative:marketplace.core\\dtos\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1C9489-0510-42B3-A179-5B7BCC8CC829}|MarketPlace.Data\\MarketPlace.Data.csproj|c:\\users\\udumanah\\desktop\\marketplace\\marketplace\\marketplace\\marketplace.data\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1C9489-0510-42B3-A179-5B7BCC8CC829}|MarketPlace.Data\\MarketPlace.Data.csproj|solutionrelative:marketplace.data\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05BA7515-8E70-4260-A09D-F12A52C27507}|MarketPlace.Core\\MarketPlace.Core.csproj|c:\\users\\udumanah\\desktop\\marketplace\\marketplace\\marketplace\\marketplace.core\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05BA7515-8E70-4260-A09D-F12A52C27507}|MarketPlace.Core\\MarketPlace.Core.csproj|solutionrelative:marketplace.core\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05BA7515-8E70-4260-A09D-F12A52C27507}|MarketPlace.Core\\MarketPlace.Core.csproj|c:\\users\\udumanah\\desktop\\marketplace\\marketplace\\marketplace\\marketplace.core\\dtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05BA7515-8E70-4260-A09D-F12A52C27507}|MarketPlace.Core\\MarketPlace.Core.csproj|solutionrelative:marketplace.core\\dtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1C9489-0510-42B3-A179-5B7BCC8CC829}|MarketPlace.Data\\MarketPlace.Data.csproj|c:\\users\\udumanah\\desktop\\marketplace\\marketplace\\marketplace\\marketplace.data\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1C9489-0510-42B3-A179-5B7BCC8CC829}|MarketPlace.Data\\MarketPlace.Data.csproj|solutionrelative:marketplace.data\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1C9489-0510-42B3-A179-5B7BCC8CC829}|MarketPlace.Data\\MarketPlace.Data.csproj|c:\\users\\udumanah\\desktop\\marketplace\\marketplace\\marketplace\\marketplace.data\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1C9489-0510-42B3-A179-5B7BCC8CC829}|MarketPlace.Data\\MarketPlace.Data.csproj|solutionrelative:marketplace.data\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05BA7515-8E70-4260-A09D-F12A52C27507}|MarketPlace.Core\\MarketPlace.Core.csproj|c:\\users\\udumanah\\desktop\\marketplace\\marketplace\\marketplace\\marketplace.core\\dtos\\notificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05BA7515-8E70-4260-A09D-F12A52C27507}|MarketPlace.Core\\MarketPlace.Core.csproj|solutionrelative:marketplace.core\\dtos\\notificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1C9489-0510-42B3-A179-5B7BCC8CC829}|MarketPlace.Data\\MarketPlace.Data.csproj|c:\\users\\udumanah\\desktop\\marketplace\\marketplace\\marketplace\\marketplace.data\\entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1C9489-0510-42B3-A179-5B7BCC8CC829}|MarketPlace.Data\\MarketPlace.Data.csproj|solutionrelative:marketplace.data\\entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05BA7515-8E70-4260-A09D-F12A52C27507}|MarketPlace.Core\\MarketPlace.Core.csproj|c:\\users\\udumanah\\desktop\\marketplace\\marketplace\\marketplace\\marketplace.core\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05BA7515-8E70-4260-A09D-F12A52C27507}|MarketPlace.Core\\MarketPlace.Core.csproj|solutionrelative:marketplace.core\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1C9489-0510-42B3-A179-5B7BCC8CC829}|MarketPlace.Data\\MarketPlace.Data.csproj|c:\\users\\udumanah\\desktop\\marketplace\\marketplace\\marketplace\\marketplace.data\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1C9489-0510-42B3-A179-5B7BCC8CC829}|MarketPlace.Data\\MarketPlace.Data.csproj|solutionrelative:marketplace.data\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05BA7515-8E70-4260-A09D-F12A52C27507}|MarketPlace.Core\\MarketPlace.Core.csproj|c:\\users\\udumanah\\desktop\\marketplace\\marketplace\\marketplace\\marketplace.core\\dtos\\appuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05BA7515-8E70-4260-A09D-F12A52C27507}|MarketPlace.Core\\MarketPlace.Core.csproj|solutionrelative:marketplace.core\\dtos\\appuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1C9489-0510-42B3-A179-5B7BCC8CC829}|MarketPlace.Data\\MarketPlace.Data.csproj|c:\\users\\udumanah\\desktop\\marketplace\\marketplace\\marketplace\\marketplace.data\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1C9489-0510-42B3-A179-5B7BCC8CC829}|MarketPlace.Data\\MarketPlace.Data.csproj|solutionrelative:marketplace.data\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05BA7515-8E70-4260-A09D-F12A52C27507}|MarketPlace.Core\\MarketPlace.Core.csproj|c:\\users\\udumanah\\desktop\\marketplace\\marketplace\\marketplace\\marketplace.core\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05BA7515-8E70-4260-A09D-F12A52C27507}|MarketPlace.Core\\MarketPlace.Core.csproj|solutionrelative:marketplace.core\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1C9489-0510-42B3-A179-5B7BCC8CC829}|MarketPlace.Data\\MarketPlace.Data.csproj|c:\\users\\udumanah\\desktop\\marketplace\\marketplace\\marketplace\\marketplace.data\\appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1C9489-0510-42B3-A179-5B7BCC8CC829}|MarketPlace.Data\\MarketPlace.Data.csproj|solutionrelative:marketplace.data\\appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05BA7515-8E70-4260-A09D-F12A52C27507}|MarketPlace.Core\\MarketPlace.Core.csproj|c:\\users\\udumanah\\desktop\\marketplace\\marketplace\\marketplace\\marketplace.core\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05BA7515-8E70-4260-A09D-F12A52C27507}|MarketPlace.Core\\MarketPlace.Core.csproj|solutionrelative:marketplace.core\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1C9489-0510-42B3-A179-5B7BCC8CC829}|MarketPlace.Data\\MarketPlace.Data.csproj|c:\\users\\udumanah\\desktop\\marketplace\\marketplace\\marketplace\\marketplace.data\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1C9489-0510-42B3-A179-5B7BCC8CC829}|MarketPlace.Data\\MarketPlace.Data.csproj|solutionrelative:marketplace.data\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WishlistDto.cs",
+              "DocumentMoniker": "C:\\Users\\Udumanah\\Desktop\\MarketPlace\\MarketPlace\\MarketPlace\\MarketPlace.Core\\Dtos\\WishlistDto.cs",
+              "RelativeDocumentMoniker": "MarketPlace.Core\\Dtos\\WishlistDto.cs",
+              "ToolTip": "C:\\Users\\Udumanah\\Desktop\\MarketPlace\\MarketPlace\\MarketPlace\\MarketPlace.Core\\Dtos\\WishlistDto.cs",
+              "RelativeToolTip": "MarketPlace.Core\\Dtos\\WishlistDto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T18:21:01.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReviewDto.cs",
+              "DocumentMoniker": "C:\\Users\\Udumanah\\Desktop\\MarketPlace\\MarketPlace\\MarketPlace\\MarketPlace.Core\\Dtos\\ReviewDto.cs",
+              "RelativeDocumentMoniker": "MarketPlace.Core\\Dtos\\ReviewDto.cs",
+              "ToolTip": "C:\\Users\\Udumanah\\Desktop\\MarketPlace\\MarketPlace\\MarketPlace\\MarketPlace.Core\\Dtos\\ReviewDto.cs",
+              "RelativeToolTip": "MarketPlace.Core\\Dtos\\ReviewDto.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswBAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T18:18:50.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Udumanah\\Desktop\\MarketPlace\\MarketPlace\\MarketPlace\\MarketPlace.Core\\Dtos\\ProductDto.cs",
+              "RelativeDocumentMoniker": "MarketPlace.Core\\Dtos\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\Udumanah\\Desktop\\MarketPlace\\MarketPlace\\MarketPlace\\MarketPlace.Core\\Dtos\\ProductDto.cs",
+              "RelativeToolTip": "MarketPlace.Core\\Dtos\\ProductDto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T18:15:46.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CartDto.cs",
+              "DocumentMoniker": "C:\\Users\\Udumanah\\Desktop\\MarketPlace\\MarketPlace\\MarketPlace\\MarketPlace.Core\\Dtos\\CartDto.cs",
+              "RelativeDocumentMoniker": "MarketPlace.Core\\Dtos\\CartDto.cs",
+              "ToolTip": "C:\\Users\\Udumanah\\Desktop\\MarketPlace\\MarketPlace\\MarketPlace\\MarketPlace.Core\\Dtos\\CartDto.cs",
+              "RelativeToolTip": "MarketPlace.Core\\Dtos\\CartDto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T18:02:59.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\Udumanah\\Desktop\\MarketPlace\\MarketPlace\\MarketPlace\\MarketPlace.Data\\Entities\\Cart.cs",
+              "RelativeDocumentMoniker": "MarketPlace.Data\\Entities\\Cart.cs",
+              "ToolTip": "C:\\Users\\Udumanah\\Desktop\\MarketPlace\\MarketPlace\\MarketPlace\\MarketPlace.Data\\Entities\\Cart.cs",
+              "RelativeToolTip": "MarketPlace.Data\\Entities\\Cart.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T17:14:48.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Wishlist.cs",
+              "DocumentMoniker": "C:\\Users\\Udumanah\\Desktop\\MarketPlace\\MarketPlace\\MarketPlace\\MarketPlace.Data\\Entities\\Wishlist.cs",
+              "RelativeDocumentMoniker": "MarketPlace.Data\\Entities\\Wishlist.cs",
+              "ToolTip": "C:\\Users\\Udumanah\\Desktop\\MarketPlace\\MarketPlace\\MarketPlace\\MarketPlace.Data\\Entities\\Wishlist.cs",
+              "RelativeToolTip": "MarketPlace.Data\\Entities\\Wishlist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T17:43:26.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Udumanah\\Desktop\\MarketPlace\\MarketPlace\\MarketPlace\\MarketPlace.Data\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "MarketPlace.Data\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Udumanah\\Desktop\\MarketPlace\\MarketPlace\\MarketPlace\\MarketPlace.Data\\Entities\\Product.cs",
+              "RelativeToolTip": "MarketPlace.Data\\Entities\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T17:11:24.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\Udumanah\\Desktop\\MarketPlace\\MarketPlace\\MarketPlace\\MarketPlace.Data\\Entities\\Review.cs",
+              "RelativeDocumentMoniker": "MarketPlace.Data\\Entities\\Review.cs",
+              "ToolTip": "C:\\Users\\Udumanah\\Desktop\\MarketPlace\\MarketPlace\\MarketPlace\\MarketPlace.Data\\Entities\\Review.cs",
+              "RelativeToolTip": "MarketPlace.Data\\Entities\\Review.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T17:38:11.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PaymentDto.cs",
+              "DocumentMoniker": "C:\\Users\\Udumanah\\Desktop\\MarketPlace\\MarketPlace\\MarketPlace\\MarketPlace.Core\\Dtos\\PaymentDto.cs",
+              "RelativeDocumentMoniker": "MarketPlace.Core\\Dtos\\PaymentDto.cs",
+              "ToolTip": "C:\\Users\\Udumanah\\Desktop\\MarketPlace\\MarketPlace\\MarketPlace\\MarketPlace.Core\\Dtos\\PaymentDto.cs",
+              "RelativeToolTip": "MarketPlace.Core\\Dtos\\PaymentDto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBAAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T18:14:27.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\Udumanah\\Desktop\\MarketPlace\\MarketPlace\\MarketPlace\\MarketPlace.Core\\Dtos\\OrderDto.cs",
+              "RelativeDocumentMoniker": "MarketPlace.Core\\Dtos\\OrderDto.cs",
+              "ToolTip": "C:\\Users\\Udumanah\\Desktop\\MarketPlace\\MarketPlace\\MarketPlace\\MarketPlace.Core\\Dtos\\OrderDto.cs",
+              "RelativeToolTip": "MarketPlace.Core\\Dtos\\OrderDto.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA3wBQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T18:06:56.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\Udumanah\\Desktop\\MarketPlace\\MarketPlace\\MarketPlace\\MarketPlace.Core\\Dtos\\OrderItemDto.cs",
+              "RelativeDocumentMoniker": "MarketPlace.Core\\Dtos\\OrderItemDto.cs",
+              "ToolTip": "C:\\Users\\Udumanah\\Desktop\\MarketPlace\\MarketPlace\\MarketPlace\\MarketPlace.Core\\Dtos\\OrderItemDto.cs",
+              "RelativeToolTip": "MarketPlace.Core\\Dtos\\OrderItemDto.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T18:09:58.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Udumanah\\Desktop\\MarketPlace\\MarketPlace\\MarketPlace\\MarketPlace.Data\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "MarketPlace.Data\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\Udumanah\\Desktop\\MarketPlace\\MarketPlace\\MarketPlace\\MarketPlace.Data\\Entities\\Order.cs",
+              "RelativeToolTip": "MarketPlace.Data\\Entities\\Order.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T17:23:27.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NotificationDto.cs",
+              "DocumentMoniker": "C:\\Users\\Udumanah\\Desktop\\MarketPlace\\MarketPlace\\MarketPlace\\MarketPlace.Core\\Dtos\\NotificationDto.cs",
+              "RelativeDocumentMoniker": "MarketPlace.Core\\Dtos\\NotificationDto.cs",
+              "ToolTip": "C:\\Users\\Udumanah\\Desktop\\MarketPlace\\MarketPlace\\MarketPlace\\MarketPlace.Core\\Dtos\\NotificationDto.cs",
+              "RelativeToolTip": "MarketPlace.Core\\Dtos\\NotificationDto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T18:06:14.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\Udumanah\\Desktop\\MarketPlace\\MarketPlace\\MarketPlace\\MarketPlace.Data\\Entities\\Notification.cs",
+              "RelativeDocumentMoniker": "MarketPlace.Data\\Entities\\Notification.cs",
+              "ToolTip": "C:\\Users\\Udumanah\\Desktop\\MarketPlace\\MarketPlace\\MarketPlace\\MarketPlace.Data\\Entities\\Notification.cs",
+              "RelativeToolTip": "MarketPlace.Data\\Entities\\Notification.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T17:49:42.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\Udumanah\\Desktop\\MarketPlace\\MarketPlace\\MarketPlace\\MarketPlace.Data\\Entities\\Payment.cs",
+              "RelativeDocumentMoniker": "MarketPlace.Data\\Entities\\Payment.cs",
+              "ToolTip": "C:\\Users\\Udumanah\\Desktop\\MarketPlace\\MarketPlace\\MarketPlace\\MarketPlace.Data\\Entities\\Payment.cs",
+              "RelativeToolTip": "MarketPlace.Data\\Entities\\Payment.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowBIAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T17:34:54.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\Udumanah\\Desktop\\MarketPlace\\MarketPlace\\MarketPlace\\MarketPlace.Core\\Dtos\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "MarketPlace.Core\\Dtos\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\Udumanah\\Desktop\\MarketPlace\\MarketPlace\\MarketPlace\\MarketPlace.Core\\Dtos\\CategoryDto.cs",
+              "RelativeToolTip": "MarketPlace.Core\\Dtos\\CategoryDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T18:05:23.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\Udumanah\\Desktop\\MarketPlace\\MarketPlace\\MarketPlace\\MarketPlace.Data\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "MarketPlace.Data\\Entities\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\Udumanah\\Desktop\\MarketPlace\\MarketPlace\\MarketPlace\\MarketPlace.Data\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "MarketPlace.Data\\Entities\\OrderItem.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T17:30:06.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Udumanah\\Desktop\\MarketPlace\\MarketPlace\\MarketPlace\\MarketPlace.Core\\Dtos\\AppUserDto.cs",
+              "RelativeDocumentMoniker": "MarketPlace.Core\\Dtos\\AppUserDto.cs",
+              "ToolTip": "C:\\Users\\Udumanah\\Desktop\\MarketPlace\\MarketPlace\\MarketPlace\\MarketPlace.Core\\Dtos\\AppUserDto.cs",
+              "RelativeToolTip": "MarketPlace.Core\\Dtos\\AppUserDto.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T18:01:30.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "C:\\Users\\Udumanah\\Desktop\\MarketPlace\\MarketPlace\\MarketPlace\\MarketPlace.Core\\Models\\BaseModel.cs",
+              "RelativeDocumentMoniker": "MarketPlace.Core\\Models\\BaseModel.cs",
+              "ToolTip": "C:\\Users\\Udumanah\\Desktop\\MarketPlace\\MarketPlace\\MarketPlace\\MarketPlace.Core\\Models\\BaseModel.cs",
+              "RelativeToolTip": "MarketPlace.Core\\Models\\BaseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T18:00:38.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Udumanah\\Desktop\\MarketPlace\\MarketPlace\\MarketPlace\\MarketPlace.Data\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "MarketPlace.Data\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\Udumanah\\Desktop\\MarketPlace\\MarketPlace\\MarketPlace\\MarketPlace.Data\\Entities\\Category.cs",
+              "RelativeToolTip": "MarketPlace.Data\\Entities\\Category.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T17:09:05.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Udumanah\\Desktop\\MarketPlace\\MarketPlace\\MarketPlace\\MarketPlace.Data\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "MarketPlace.Data\\Entities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Udumanah\\Desktop\\MarketPlace\\MarketPlace\\MarketPlace\\MarketPlace.Data\\Entities\\AppUser.cs",
+              "RelativeToolTip": "MarketPlace.Data\\Entities\\AppUser.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T16:47:16.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "APPContext.cs",
+              "DocumentMoniker": "C:\\Users\\Udumanah\\Desktop\\MarketPlace\\MarketPlace\\MarketPlace\\MarketPlace.Data\\APPContext.cs",
+              "RelativeDocumentMoniker": "MarketPlace.Data\\APPContext.cs",
+              "ToolTip": "C:\\Users\\Udumanah\\Desktop\\MarketPlace\\MarketPlace\\MarketPlace\\MarketPlace.Data\\APPContext.cs",
+              "RelativeToolTip": "MarketPlace.Data\\APPContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T17:00:43.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Udumanah\\Desktop\\MarketPlace\\MarketPlace\\MarketPlace\\MarketPlace.Core\\Enums\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "MarketPlace.Core\\Enums\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\Udumanah\\Desktop\\MarketPlace\\MarketPlace\\MarketPlace\\MarketPlace.Core\\Enums\\OrderStatus.cs",
+              "RelativeToolTip": "MarketPlace.Core\\Enums\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T17:24:10.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\Udumanah\\Desktop\\MarketPlace\\MarketPlace\\MarketPlace\\MarketPlace.Data\\Entities\\Entity.cs",
+              "RelativeDocumentMoniker": "MarketPlace.Data\\Entities\\Entity.cs",
+              "ToolTip": "C:\\Users\\Udumanah\\Desktop\\MarketPlace\\MarketPlace\\MarketPlace\\MarketPlace.Data\\Entities\\Entity.cs",
+              "RelativeToolTip": "MarketPlace.Data\\Entities\\Entity.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T16:43:43.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 80,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
